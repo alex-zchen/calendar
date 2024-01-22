@@ -17,6 +17,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Pre-Lab 2 Assignment",
+      "course": "ECE 110L9.01L.Sp24",
+      "dueDate": "2024-01-29T10:00:00",
+      "link": "https://www.gradescope.com/courses/685697/assignments/3820102/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Pre-Lab 1 Assignment",
       "course": "ECE 110L9.01L.Sp24",
       "dueDate": "2024-01-22T10:00:00",
