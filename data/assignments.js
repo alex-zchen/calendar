@@ -80,7 +80,7 @@ assignments = {
       "title": "Calculus 1 Review Lab",
       "course": "Math 112L",
       "dueDate": "2024-01-15T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/3910524/submissions/222155998",
+      "link": "https://www.gradescope.com/courses/694373/assignments/3910524/submissions/222157821",
       "submitted": true
     },
     {
