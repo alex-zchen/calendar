@@ -122,8 +122,15 @@ assignments = {
       "title": "Problem Set #2",
       "course": "Math 112L",
       "dueDate": "2024-01-25T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/3973312/submissions/224251906",
+      "link": "https://www.gradescope.com/courses/694373/assignments/3973312/submissions/224420770",
       "submitted": true
+    },
+    {
+      "title": "Week 3 Check In",
+      "course": "Math 112L",
+      "dueDate": "2024-01-30T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373/assignments/3975715/submissions/new",
+      "submitted": false
     }
   ]
 };
