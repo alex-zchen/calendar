@@ -136,8 +136,8 @@ assignments = {
       "title": "Integration Techniques Lab",
       "course": "Math 112L",
       "dueDate": "2024-01-26T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/3993378/submissions/224665739",
+      "submitted": true
     }
   ]
 };
