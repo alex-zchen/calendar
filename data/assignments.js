@@ -129,8 +129,8 @@ assignments = {
       "title": "Week 3 Check In",
       "course": "Math 112L",
       "dueDate": "2024-01-30T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/3975715/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/3975715/submissions/225359360",
+      "submitted": true
     },
     {
       "title": "Integration Techniques Lab",
