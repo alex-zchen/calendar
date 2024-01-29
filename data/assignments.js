@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2024-01-31T13:25:00",
       "link": "https://www.gradescope.com/courses/711538",
       "submitted": false
+    },
+    {
+      "title": "HW 3",
+      "course": "ECE 110L.004.Sp24",
+      "dueDate": "2024-02-07T13:25:00",
+      "link": "https://www.gradescope.com/courses/711538",
+      "submitted": false
     }
   ],
   "ECE 110L9.01L.Sp24": [
@@ -145,6 +152,13 @@ assignments = {
       "dueDate": "2024-01-26T00:00:00",
       "link": "https://www.gradescope.com/courses/694373/assignments/3993378/submissions/224665739",
       "submitted": true
+    },
+    {
+      "title": "Problem Set #3",
+      "course": "Math 112L",
+      "dueDate": "2024-02-01T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
     }
   ]
 };
