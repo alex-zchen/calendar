@@ -57,6 +57,13 @@ assignments = {
       "dueDate": "2024-01-30T21:00:00",
       "link": "https://www.gradescope.com/courses/685697/assignments/3820107/submissions/224145885",
       "submitted": true
+    },
+    {
+      "title": "Lab 2 Assignment",
+      "course": "ECE 110L9.01L.Sp24",
+      "dueDate": "2024-02-06T21:00:00",
+      "link": "https://www.gradescope.com/courses/685697/assignments/3820108/submissions/new",
+      "submitted": false
     }
   ],
   "ECE/CS 250": [
