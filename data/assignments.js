@@ -99,8 +99,8 @@ assignments = {
       "title": "Homework 3: C (Written)",
       "course": "ECE/CS 250",
       "dueDate": "2024-02-02T17:00:00",
-      "link": "https://www.gradescope.com/courses/696523",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696523/assignments/3943412/submissions/226202541",
+      "submitted": true
     }
   ],
   "Math 112L": [
