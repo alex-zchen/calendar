@@ -171,8 +171,8 @@ assignments = {
       "title": "Area, Volume, & Arc Length Lab",
       "course": "Math 112L",
       "dueDate": "2024-02-02T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/4018404/submissions/226641936",
+      "submitted": true
     },
     {
       "title": "Exam 1 Review Requests for Monday",
