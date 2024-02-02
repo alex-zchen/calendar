@@ -92,7 +92,7 @@ assignments = {
       "title": "Homework 3: C (Code)",
       "course": "ECE/CS 250",
       "dueDate": "2024-02-02T17:00:00",
-      "link": "https://www.gradescope.com/courses/696523/assignments/3920935/submissions/226805782",
+      "link": "https://www.gradescope.com/courses/696523/assignments/3920935/submissions/226819515",
       "submitted": true
     },
     {
