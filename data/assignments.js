@@ -101,6 +101,20 @@ assignments = {
       "dueDate": "2024-02-02T17:00:00",
       "link": "https://www.gradescope.com/courses/696523/assignments/3943412/submissions/227031743",
       "submitted": true
+    },
+    {
+      "title": "Homework 4: Assembly (Code)",
+      "course": "ECE/CS 250",
+      "dueDate": "2024-02-23T17:00:00",
+      "link": "https://www.gradescope.com/courses/696523",
+      "submitted": false
+    },
+    {
+      "title": "Homework 4: Assembly (Written)",
+      "course": "ECE/CS 250",
+      "dueDate": "2024-02-23T17:00:00",
+      "link": "https://www.gradescope.com/courses/696523",
+      "submitted": false
     }
   ],
   "Math 112L": [
