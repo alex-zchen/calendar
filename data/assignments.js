@@ -192,7 +192,7 @@ assignments = {
       "title": "Exam 1 Review Requests for Monday",
       "course": "Math 112L",
       "dueDate": "2024-02-04T17:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/4035066/submissions/new",
+      "link": "https://www.gradescope.com/courses/694373",
       "submitted": false
     }
   ]
