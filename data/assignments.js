@@ -34,8 +34,8 @@ assignments = {
       "title": "Lab 4 Assignment",
       "course": "ECE 110L9.01L.Sp24",
       "dueDate": "2024-02-20T21:00:00",
-      "link": "https://www.gradescope.com/courses/685697/assignments/3820098/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/685697/assignments/3820098/submissions/230416509",
+      "submitted": true
     },
     {
       "title": "Pre-Lab 3 Assignment",
