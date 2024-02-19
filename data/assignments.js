@@ -94,6 +94,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "IDC Week 2 Pre-Lab Assignment",
+      "course": "ECE 110L9.01L.Sp24",
+      "dueDate": "2024-02-26T10:00:00",
+      "link": "https://www.gradescope.com/courses/685697/assignments/3820109/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "IDC Week 1 Pre-Lab Assignment",
       "course": "ECE 110L9.01L.Sp24",
       "dueDate": "2024-02-19T10:00:00",
@@ -264,6 +271,13 @@ assignments = {
       "dueDate": "2024-02-16T00:00:00",
       "link": "https://www.gradescope.com/courses/694373/assignments/4108243/submissions/231099165",
       "submitted": true
+    },
+    {
+      "title": "Problem Set #5",
+      "course": "Math 112L",
+      "dueDate": "2024-02-22T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
     }
   ]
 };
