@@ -269,8 +269,8 @@ assignments = {
       "title": "Week 6 Check In",
       "course": "Math 112L",
       "dueDate": "2024-02-20T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/4093877/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/4093877/submissions/232181192",
+      "submitted": true
     },
     {
       "title": "Probability & Series Lab",
