@@ -97,8 +97,8 @@ assignments = {
       "title": "IDC Week 1 Pre-Lab Assignment",
       "course": "ECE 110L9.01L.Sp24",
       "dueDate": "2024-02-19T10:00:00",
-      "link": "https://www.gradescope.com/courses/685697/assignments/3820112/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/685697/assignments/3820112/submissions/232092306",
+      "submitted": true
     }
   ],
   "ECE/CS 250": [
