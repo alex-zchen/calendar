@@ -287,6 +287,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Series Review Lab",
+      "course": "Math 112L",
+      "dueDate": "2024-02-23T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
+    },
+    {
       "title": "Problem Set #5",
       "course": "Math 112L",
       "dueDate": "2024-02-22T00:00:00",
