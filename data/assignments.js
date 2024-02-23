@@ -162,7 +162,7 @@ assignments = {
       "title": "Homework 4: Assembly (Code)",
       "course": "ECE/CS 250",
       "dueDate": "2024-02-23T17:00:00",
-      "link": "https://www.gradescope.com/courses/696523/assignments/4007139/submissions/232326352",
+      "link": "https://www.gradescope.com/courses/696523/assignments/4007139/submissions/233480514",
       "submitted": true
     },
     {
