@@ -355,6 +355,13 @@ assignments = {
       "dueDate": "2024-03-03T17:00:00",
       "link": "https://www.gradescope.com/courses/694373/assignments/4173123/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Series Practice Lab",
+      "course": "Math 112L",
+      "dueDate": "2024-03-01T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
     }
   ]
 };
