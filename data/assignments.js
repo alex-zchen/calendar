@@ -348,6 +348,13 @@ assignments = {
       "dueDate": "2024-02-29T00:00:00",
       "link": "https://www.gradescope.com/courses/694373/assignments/4163870/submissions/235108524",
       "submitted": true
+    },
+    {
+      "title": "Exam 2 Review Requests for Monday",
+      "course": "Math 112L",
+      "dueDate": "2024-03-03T17:00:00",
+      "link": "https://www.gradescope.com/courses/694373/assignments/4173123/submissions/new",
+      "submitted": false
     }
   ]
 };
