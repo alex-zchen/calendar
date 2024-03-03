@@ -197,8 +197,8 @@ assignments = {
       "title": "Homework 5: Logic (Code)",
       "course": "ECE/CS 250",
       "dueDate": "2024-03-04T17:00:00",
-      "link": "https://www.gradescope.com/courses/696523",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696523/assignments/4152207/submissions/236203990",
+      "submitted": true
     },
     {
       "title": "Homework 5: Logic (Written)",
@@ -353,7 +353,7 @@ assignments = {
       "title": "Exam 2 Review Requests for Monday",
       "course": "Math 112L",
       "dueDate": "2024-03-03T17:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/4173123/submissions/new",
+      "link": "https://www.gradescope.com/courses/694373",
       "submitted": false
     },
     {
