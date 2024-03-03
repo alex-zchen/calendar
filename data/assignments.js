@@ -197,7 +197,7 @@ assignments = {
       "title": "Homework 5: Logic (Code)",
       "course": "ECE/CS 250",
       "dueDate": "2024-03-04T17:00:00",
-      "link": "https://www.gradescope.com/courses/696523/assignments/4152207/submissions/236203990",
+      "link": "https://www.gradescope.com/courses/696523/assignments/4152207/submissions/236221754",
       "submitted": true
     },
     {
