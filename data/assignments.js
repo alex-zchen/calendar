@@ -39,8 +39,8 @@ assignments = {
       "title": "HW 6",
       "course": "ECE 110L.004.Sp24",
       "dueDate": "2024-03-06T13:25:00",
-      "link": "https://www.gradescope.com/courses/711538",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711538/assignments/4158591/submissions/236852662",
+      "submitted": true
     },
     {
       "title": "HW 7",
