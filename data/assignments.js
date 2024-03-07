@@ -395,8 +395,8 @@ assignments = {
       "title": "Differential Equations Lab",
       "course": "Math 112L",
       "dueDate": "2024-03-08T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/4206483/submissions/237394460",
+      "submitted": true
     }
   ]
 };
