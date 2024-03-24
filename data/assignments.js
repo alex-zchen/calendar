@@ -432,6 +432,13 @@ assignments = {
       "dueDate": "2024-03-22T00:00:00",
       "link": "https://www.gradescope.com/courses/694373/assignments/4253308/submissions/240821702",
       "submitted": true
+    },
+    {
+      "title": "Problem Set #7",
+      "course": "Math 112L",
+      "dueDate": "2024-03-28T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
     }
   ]
 };
