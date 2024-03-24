@@ -423,8 +423,8 @@ assignments = {
       "title": "Week 11 Check In",
       "course": "Math 112L",
       "dueDate": "2024-03-26T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/4241265/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/4241265/submissions/241494492",
+      "submitted": true
     },
     {
       "title": "Taylor Polynomials Lab",
