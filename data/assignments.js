@@ -52,7 +52,7 @@ assignments = {
     {
       "title": "HW 8",
       "course": "ECE 110L.004.Sp24",
-      "dueDate": "2024-03-27T13:25:00",
+      "dueDate": "2024-03-29T13:25:00",
       "link": "https://www.gradescope.com/courses/711538",
       "submitted": false
     }
@@ -451,8 +451,8 @@ assignments = {
       "title": "Problem Set #7",
       "course": "Math 112L",
       "dueDate": "2024-03-28T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/4269536/submissions/242316997",
+      "submitted": true
     }
   ]
 };
