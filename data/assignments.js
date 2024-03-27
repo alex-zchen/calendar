@@ -448,6 +448,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Week 12 Check In",
+      "course": "Math 112L",
+      "dueDate": "2024-04-01T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373/assignments/4269414/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Problem Set #7",
       "course": "Math 112L",
       "dueDate": "2024-03-28T00:00:00",
