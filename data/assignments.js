@@ -460,6 +460,13 @@ assignments = {
       "dueDate": "2024-03-28T00:00:00",
       "link": "https://www.gradescope.com/courses/694373/assignments/4269536/submissions/242316997",
       "submitted": true
+    },
+    {
+      "title": "Taylor Series Review Lab",
+      "course": "Math 112L",
+      "dueDate": "2024-03-29T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
     }
   ]
 };
