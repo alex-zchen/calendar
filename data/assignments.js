@@ -509,6 +509,13 @@ assignments = {
       "dueDate": "2024-04-04T00:00:00",
       "link": "https://www.gradescope.com/courses/694373/assignments/4300579/submissions/243902812",
       "submitted": true
+    },
+    {
+      "title": "Fourier Series Lab",
+      "course": "Math 112L",
+      "dueDate": "2024-04-05T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
     }
   ]
 };
