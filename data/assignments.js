@@ -542,8 +542,8 @@ assignments = {
       "title": "Problem Set #9",
       "course": "Math 112L",
       "dueDate": "2024-04-11T00:00:00",
-      "link": "https://www.gradescope.com/courses/694373",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/694373/assignments/4336777/submissions/245635429",
+      "submitted": true
     }
   ]
 };
