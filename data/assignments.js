@@ -55,6 +55,13 @@ assignments = {
       "dueDate": "2024-03-29T13:25:00",
       "link": "https://www.gradescope.com/courses/711538/assignments/4244741/submissions/242414293",
       "submitted": true
+    },
+    {
+      "title": "HW 9",
+      "course": "ECE 110L.004.Sp24",
+      "dueDate": "2024-04-17T13:25:00",
+      "link": "https://www.gradescope.com/courses/711538",
+      "submitted": false
     }
   ],
   "ECE 110L9.01L.Sp24": [
