@@ -556,7 +556,7 @@ assignments = {
       "title": "Exam 3 Review Requests for Monday",
       "course": "Math 112L",
       "dueDate": "2024-04-14T17:00:00",
-      "link": "https://www.gradescope.com/courses/694373/assignments/4347319/submissions/new",
+      "link": "https://www.gradescope.com/courses/694373",
       "submitted": false
     }
   ]
