@@ -572,6 +572,13 @@ assignments = {
       "dueDate": "2024-04-14T17:00:00",
       "link": "https://www.gradescope.com/courses/694373",
       "submitted": false
+    },
+    {
+      "title": "Continuous Probability Lab",
+      "course": "Math 112L",
+      "dueDate": "2024-04-19T00:00:00",
+      "link": "https://www.gradescope.com/courses/694373",
+      "submitted": false
     }
   ]
 };
