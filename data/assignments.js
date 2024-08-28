@@ -1,4 +1,5 @@
 assignments = {
+  "ECE 350L.001.Fa24": [],
   "MATH 218D-2.001.Fa24": [
     {
       "title": "Matrices and Vectors Quiz",
