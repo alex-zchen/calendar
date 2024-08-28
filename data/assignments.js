@@ -32,8 +32,8 @@ assignments = {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620397/submissions/262833673",
+      "submitted": true
     },
     {
       "title": "Matrix-Vector Products Problem Set",
