@@ -1,4 +1,5 @@
 assignments = {
+  "CompSci 316 - Fall 2024": [],
   "ECE 350L.001.Fa24": [],
   "MATH 218D-2.001.Fa24": [
     {
