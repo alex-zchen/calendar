@@ -27,8 +27,8 @@ assignments = {
       "title": "Digraphs Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4619778/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619778/submissions/263556227",
+      "submitted": true
     },
     {
       "title": "Matrices and Vectors Problem Set",
