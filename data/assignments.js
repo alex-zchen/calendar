@@ -1,6 +1,14 @@
 assignments = {
   "CompSci 316 - Fall 2024": [],
-  "ECE 350L.001.Fa24": [],
+  "ECE 350L.001.Fa24": [
+    {
+      "title": "Homework 1",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-09-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
+    }
+  ],
   "MATH 218D-2.001.Fa24": [
     {
       "title": "Matrices and Vectors Quiz",
