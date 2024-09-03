@@ -56,8 +56,8 @@ assignments = {
       "title": "Digraphs Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620399/submissions/263983605",
+      "submitted": true
     },
     {
       "title": "Welcome! Quiz",
