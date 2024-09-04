@@ -1,5 +1,34 @@
 assignments = {
-  "CompSci 316 - Fall 2024": [],
+  "CompSci 316 - Fall 2024": [
+    {
+      "title": "HW1 - SQL Queries",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-12T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
+    },
+    {
+      "title": "HW1 RA Queries",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-12T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
+    },
+    {
+      "title": "HW1 XC",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-12T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
+    },
+    {
+      "title": "HW1- Help and late day declaration",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-12T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/4888271/submissions/new",
+      "submitted": false
+    }
+  ],
   "ECE 350L.001.Fa24": [
     {
       "title": "Homework 1",
