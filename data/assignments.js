@@ -5,7 +5,7 @@ assignments = {
       "title": "Homework 1",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240/assignments/4869527/submissions/264068279",
+      "link": "https://www.gradescope.com/courses/808240/assignments/4869527/submissions/264131935",
       "submitted": true
     }
   ],
@@ -56,7 +56,7 @@ assignments = {
       "title": "Digraphs Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620399/submissions/263983605",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620399/submissions/264139041",
       "submitted": true
     },
     {
