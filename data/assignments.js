@@ -71,8 +71,8 @@ assignments = {
       "title": "Vector Geometry Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-10T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4619783/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619783/submissions/264444321",
+      "submitted": true
     },
     {
       "title": "Matrix Multiplication Quiz",
