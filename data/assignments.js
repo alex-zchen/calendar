@@ -34,6 +34,13 @@ assignments = {
       "dueDate": "2024-09-06T12:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
+    },
+    {
+      "title": "Discussion-section2-Quiz-Sept6 (only open if you are in afternoon discussion)",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-06T15:20:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/4904642/submissions/264971263",
+      "submitted": true
     }
   ],
   "ECE 350L.001.Fa24": [
@@ -48,6 +55,13 @@ assignments = {
       "title": "Homework 2",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-09-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
+    },
+    {
+      "title": "CP1: ALU",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-09-20T23:59:00",
       "link": "https://www.gradescope.com/courses/808240",
       "submitted": false
     }
