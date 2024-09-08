@@ -64,6 +64,13 @@ assignments = {
       "dueDate": "2024-09-20T23:59:00",
       "link": "https://www.gradescope.com/courses/808240",
       "submitted": false
+    },
+    {
+      "title": "Homework 3",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-09-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
     }
   ],
   "MATH 218D-2.001.Fa24": [
