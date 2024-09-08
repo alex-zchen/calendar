@@ -113,8 +113,8 @@ assignments = {
       "title": "Matrix Multiplication Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-10T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4619784/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619784/submissions/265342372",
+      "submitted": true
     },
     {
       "title": "Matrices and Vectors Problem Set",
