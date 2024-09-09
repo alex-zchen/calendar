@@ -117,6 +117,27 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Row Echelon Forms Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-17T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619988/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Linear Systems Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-17T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619989/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Gauss-Jordan Elimination Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-17T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619990/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
@@ -148,6 +169,27 @@ assignments = {
       "title": "Vector Geometry Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-10T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Row Echelon Forms Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-17T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Linear Systems Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-17T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Gauss-Jordan Elimination Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-17T23:30:00",
       "link": "https://www.gradescope.com/courses/803996",
       "submitted": false
     },
