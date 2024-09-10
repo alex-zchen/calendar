@@ -55,8 +55,8 @@ assignments = {
       "title": "Homework 2",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/4872416/submissions/266076544",
+      "submitted": true
     },
     {
       "title": "CP1: ALU",
@@ -162,15 +162,15 @@ assignments = {
       "title": "Matrix Multiplication Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-10T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620621/submissions/266077966",
+      "submitted": true
     },
     {
       "title": "Vector Geometry Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-10T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620622/submissions/266077883",
+      "submitted": true
     },
     {
       "title": "Row Echelon Forms Problem Set",
