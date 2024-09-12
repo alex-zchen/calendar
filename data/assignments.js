@@ -120,15 +120,15 @@ assignments = {
       "title": "Row Echelon Forms Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-17T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4619988/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619988/submissions/266632217",
+      "submitted": true
     },
     {
       "title": "Linear Systems Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-17T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4619989/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619989/submissions/266633659",
+      "submitted": true
     },
     {
       "title": "Gauss-Jordan Elimination Quiz",
