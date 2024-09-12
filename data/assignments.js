@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2024-09-06T15:20:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/4904642/submissions/264971263",
       "submitted": true
+    },
+    {
+      "title": "HW2",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-19T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
