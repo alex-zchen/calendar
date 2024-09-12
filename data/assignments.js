@@ -11,8 +11,8 @@ assignments = {
       "title": "HW1 RA Queries",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-12T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/4854616/submissions/266491742",
+      "submitted": true
     },
     {
       "title": "HW1 XC",
