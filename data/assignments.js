@@ -50,6 +50,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Discussion-section2-Quiz-Sept13 (only open if you are in afternoon discussion)",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-13T15:20:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/4924315/submissions/267126374",
+      "submitted": true
+    },
+    {
       "title": "HW2",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-19T18:00:00",
