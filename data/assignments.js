@@ -162,8 +162,8 @@ assignments = {
       "title": "Gauss-Jordan Elimination Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-17T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4619990/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4619990/submissions/267634499",
+      "submitted": true
     },
     {
       "title": "Matrices and Vectors Problem Set",
