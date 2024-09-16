@@ -173,6 +173,27 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Nonsingular Matrices Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-24T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620318/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "EA=R Factorizations Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-24T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620319/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "PA=LU Factorizations Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-24T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620320/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
@@ -225,6 +246,27 @@ assignments = {
       "title": "Gauss-Jordan Elimination Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-17T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Nonsingular Matrices Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-24T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "EA=R Factorizations Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-24T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "PA=LU Factorizations Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-09-24T23:30:00",
       "link": "https://www.gradescope.com/courses/803996",
       "submitted": false
     },
