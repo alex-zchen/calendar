@@ -1,7 +1,7 @@
 assignments = {
   "CompSci 316 - Fall 2024": [
     {
-      "title": "HW1 - SQL Queries",
+      "title": "HW1 SQL Queries",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-12T18:00:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/4850790/submissions/264660988",
@@ -15,7 +15,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW1 XC",
+      "title": "HW1 Extra Credit",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-12T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
@@ -232,22 +232,22 @@ assignments = {
       "title": "Row Echelon Forms Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-17T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620658/submissions/268444656",
+      "submitted": true
     },
     {
       "title": "Linear Systems Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-17T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620659/submissions/268444811",
+      "submitted": true
     },
     {
       "title": "Gauss-Jordan Elimination Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-17T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620660/submissions/268445288",
+      "submitted": true
     },
     {
       "title": "Nonsingular Matrices Problem Set",
