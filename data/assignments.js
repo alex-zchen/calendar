@@ -90,8 +90,8 @@ assignments = {
       "title": "CP1: ALU",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/4908952/submissions/268866473",
+      "submitted": true
     },
     {
       "title": "Homework 3",
