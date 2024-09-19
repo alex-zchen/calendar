@@ -183,15 +183,15 @@ assignments = {
       "title": "Nonsingular Matrices Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-24T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620318/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620318/submissions/269118813",
+      "submitted": true
     },
     {
       "title": "EA=R Factorizations Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-24T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620319/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620319/submissions/269125916",
+      "submitted": true
     },
     {
       "title": "PA=LU Factorizations Quiz",
