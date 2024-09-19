@@ -60,15 +60,15 @@ assignments = {
       "title": "HW2",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-19T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/4948994/submissions/269274224",
+      "submitted": true
     },
     {
       "title": "HW2- Help and late day declaration",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-19T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/4953442/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/4953442/submissions/269274823",
+      "submitted": true
     }
   ],
   "ECE 350L.001.Fa24": [
