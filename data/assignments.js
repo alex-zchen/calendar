@@ -71,10 +71,17 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Discussion-section2-Quiz-Sept20",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-20T15:20:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/4997950/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Discussion-section1-Quiz-Sept20",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-20T13:00:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/4997953/submissions/new",
+      "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     }
   ],
