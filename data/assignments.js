@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2024-09-20T13:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
+    },
+    {
+      "title": "HW3 SQL Queries",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-27T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
