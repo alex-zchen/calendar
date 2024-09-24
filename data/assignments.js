@@ -94,14 +94,14 @@ assignments = {
     {
       "title": "HW3 Extra Credit",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-09-30T18:00:00",
+      "dueDate": "2024-09-30T21:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     },
     {
       "title": "Project Milestone 2",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-09-24T18:00:00",
+      "dueDate": "2024-09-25T18:00:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5019961/submissions/270866479",
       "submitted": true
     }
@@ -139,8 +139,8 @@ assignments = {
       "title": "Homework 4",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/4968343/submissions/271005605",
+      "submitted": true
     },
     {
       "title": "CP2: Regfile",
@@ -309,22 +309,22 @@ assignments = {
       "title": "Nonsingular Matrices Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-24T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620667/submissions/270994743",
+      "submitted": true
     },
     {
       "title": "EA=R Factorizations Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-24T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620668/submissions/270994930",
+      "submitted": true
     },
     {
       "title": "PA=LU Factorizations Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-24T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620669/submissions/270995017",
+      "submitted": true
     },
     {
       "title": "Null Spaces Problem Set",
