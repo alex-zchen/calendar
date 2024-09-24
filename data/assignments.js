@@ -87,14 +87,14 @@ assignments = {
     {
       "title": "HW3 SQL Queries",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-09-27T18:00:00",
+      "dueDate": "2024-09-30T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     },
     {
       "title": "HW3 Extra Credit",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-09-29T18:00:00",
+      "dueDate": "2024-09-30T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     },
