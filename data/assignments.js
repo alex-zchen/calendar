@@ -102,8 +102,8 @@ assignments = {
       "title": "Project Milestone 2",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-24T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5019961/submissions/270866479",
+      "submitted": true
     }
   ],
   "ECE 350L.001.Fa24": [
