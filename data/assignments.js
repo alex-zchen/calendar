@@ -146,8 +146,8 @@ assignments = {
       "title": "CP2: Regfile",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-09-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/4968367/submissions/271059997",
+      "submitted": true
     }
   ],
   "MATH 218D-2.001.Fa24": [
