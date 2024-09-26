@@ -104,6 +104,13 @@ assignments = {
       "dueDate": "2024-09-25T18:00:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5019961/submissions/270866479",
       "submitted": true
+    },
+    {
+      "title": "HW3- Help declaration (no late penalty)",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-09-30T21:30:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5045954/submissions/new",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
