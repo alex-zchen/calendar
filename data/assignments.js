@@ -278,6 +278,27 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Column Spaces Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-08T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620326/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "The Four Fundamental Subspaces Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-08T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620327/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Linear Independence Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-08T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620328/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
@@ -365,6 +386,27 @@ assignments = {
       "title": "Eigenvalues Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-01T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Column Spaces Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-08T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "The Four Fundamental Subspaces Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-08T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Linear Independence Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-08T23:30:00",
       "link": "https://www.gradescope.com/courses/803996",
       "submitted": false
     },
