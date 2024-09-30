@@ -88,7 +88,7 @@ assignments = {
       "title": "HW3 SQL Queries",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-27T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5011336/submissions/272638390",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5011336/submissions/272664720",
       "submitted": true
     },
     {
@@ -109,8 +109,8 @@ assignments = {
       "title": "HW3- Help declaration (no late penalty)",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-09-30T21:30:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5045954/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5045954/submissions/272667182",
+      "submitted": true
     }
   ],
   "ECE 350L.001.Fa24": [
@@ -274,8 +274,8 @@ assignments = {
       "title": "Eigenvalues Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-01T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620324/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620324/submissions/272682843",
+      "submitted": true
     },
     {
       "title": "Matrices and Vectors Problem Set",
