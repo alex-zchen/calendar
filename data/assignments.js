@@ -386,8 +386,8 @@ assignments = {
       "title": "Eigenvalues Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-01T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620677/submissions/273365895",
+      "submitted": true
     },
     {
       "title": "Column Spaces Problem Set",
