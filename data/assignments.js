@@ -167,8 +167,8 @@ assignments = {
       "title": "CP3 milestone 1: Mult proof of life",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/5055636/submissions/274181364",
+      "submitted": true
     },
     {
       "title": "[LATE + TESTING] CP2: Regfile",
