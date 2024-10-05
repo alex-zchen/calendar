@@ -171,6 +171,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "CP3 milestone 2: Mult",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-10-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
+    },
+    {
       "title": "[LATE + TESTING] CP2: Regfile",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-12-16T23:59:00",
