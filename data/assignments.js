@@ -306,6 +306,27 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Bases Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-15T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620332/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Dimension Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-15T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620333/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Orthogonality Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-15T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620334/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
@@ -414,6 +435,27 @@ assignments = {
       "title": "Linear Independence Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-08T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Bases Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-15T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Dimension Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-15T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Orthogonality Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-15T23:30:00",
       "link": "https://www.gradescope.com/courses/803996",
       "submitted": false
     },
