@@ -174,7 +174,7 @@ assignments = {
       "title": "CP3 Milestone 2: Mult",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240/assignments/5055642/submissions/275475138",
+      "link": "https://www.gradescope.com/courses/808240/assignments/5055642/submissions/275547204",
       "submitted": true
     },
     {
