@@ -164,18 +164,18 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "CP3 milestone 1: Mult proof of life",
+      "title": "CP3 Milestone 1: Mult Proof of Life",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/808240/assignments/5055636/submissions/274181364",
       "submitted": true
     },
     {
-      "title": "CP3 milestone 2: Mult",
+      "title": "CP3 Milestone 2: Mult",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/5055642/submissions/275475138",
+      "submitted": true
     },
     {
       "title": "[LATE + TESTING] CP2: Regfile",
