@@ -295,22 +295,22 @@ assignments = {
       "title": "Column Spaces Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-08T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620326/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620326/submissions/275863225",
+      "submitted": true
     },
     {
       "title": "The Four Fundamental Subspaces Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-08T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620327/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620327/submissions/275872188",
+      "submitted": true
     },
     {
       "title": "Linear Independence Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-08T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620328/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620328/submissions/275876884",
+      "submitted": true
     },
     {
       "title": "Bases Quiz",
@@ -428,22 +428,22 @@ assignments = {
       "title": "Column Spaces Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-08T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620697/submissions/275861580",
+      "submitted": true
     },
     {
       "title": "The Four Fundamental Subspaces Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-08T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620698/submissions/275861467",
+      "submitted": true
     },
     {
       "title": "Linear Independence Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-08T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620699/submissions/275861344",
+      "submitted": true
     },
     {
       "title": "Bases Problem Set",
