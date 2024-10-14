@@ -348,6 +348,20 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Least Squares Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-22T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620338/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Projections Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-22T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620339/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
@@ -477,6 +491,20 @@ assignments = {
       "title": "Orthogonality Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-15T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Least Squares Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-22T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Projections Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-10-22T23:30:00",
       "link": "https://www.gradescope.com/courses/803996",
       "submitted": false
     },
