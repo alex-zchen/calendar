@@ -204,6 +204,13 @@ assignments = {
       "dueDate": "2024-12-16T23:59:00",
       "link": "https://www.gradescope.com/courses/808240",
       "submitted": false
+    },
+    {
+      "title": "CP4 milestone 1: Baby CPU",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
     }
   ],
   "MATH 218D-2.001.Fa24": [
