@@ -337,22 +337,22 @@ assignments = {
       "title": "Bases Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-15T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620332/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620332/submissions/278317004",
+      "submitted": true
     },
     {
       "title": "Dimension Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-15T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620333/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620333/submissions/278327093",
+      "submitted": true
     },
     {
       "title": "Orthogonality Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-15T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620334/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620334/submissions/278327824",
+      "submitted": true
     },
     {
       "title": "Least Squares Quiz",
@@ -484,22 +484,22 @@ assignments = {
       "title": "Bases Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-15T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620729/submissions/278316015",
+      "submitted": true
     },
     {
       "title": "Dimension Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-15T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620730/submissions/278315911",
+      "submitted": true
     },
     {
       "title": "Orthogonality Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-15T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620731/submissions/278315803",
+      "submitted": true
     },
     {
       "title": "Least Squares Problem Set",
