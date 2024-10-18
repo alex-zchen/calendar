@@ -132,6 +132,13 @@ assignments = {
       "dueDate": "2024-10-18T12:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
+    },
+    {
+      "title": "Discussion-section2-Quiz-Oct18",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-10-18T15:20:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5166095/submissions/new",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
