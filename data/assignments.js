@@ -209,11 +209,18 @@ assignments = {
       "title": "CP3 Final: Multdiv",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240/assignments/5055646/submissions/279828750",
+      "link": "https://www.gradescope.com/courses/808240/assignments/5055646/submissions/279872445",
       "submitted": true
     },
     {
       "title": "[LATE + TESTING] CP2: Regfile",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-12-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
+    },
+    {
+      "title": "[LATE + TESTING] CP3: Multdiv",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-12-16T23:59:00",
       "link": "https://www.gradescope.com/courses/808240",
