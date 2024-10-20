@@ -239,6 +239,13 @@ assignments = {
       "dueDate": "2024-10-23T05:39:00",
       "link": "https://www.gradescope.com/courses/808240",
       "submitted": false
+    },
+    {
+      "title": "Project proposal",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-11-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
     }
   ],
   "MATH 218D-2.001.Fa24": [
