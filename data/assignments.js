@@ -414,8 +414,8 @@ assignments = {
       "title": "Projections Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-22T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620339/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620339/submissions/280797301",
+      "submitted": true
     },
     {
       "title": "The Gram-Schmidt Algorithm Quiz",
@@ -568,15 +568,15 @@ assignments = {
       "title": "Least Squares Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-22T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620851/submissions/280796986",
+      "submitted": true
     },
     {
       "title": "Projections Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-22T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620852/submissions/280797175",
+      "submitted": true
     },
     {
       "title": "The Gram-Schmidt Algorithm Problem Set",
