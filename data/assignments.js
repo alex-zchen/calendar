@@ -265,8 +265,8 @@ assignments = {
       "title": "Homework 5",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/5174912/submissions/281293588",
+      "submitted": true
     },
     {
       "title": "Project proposal",
