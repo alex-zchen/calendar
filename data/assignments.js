@@ -158,7 +158,7 @@ assignments = {
       "title": "Discussion-section1-Quiz-Oct25",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-10-25T12:00:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5218429/submissions/new",
+      "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     }
   ],
