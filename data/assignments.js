@@ -155,6 +155,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Discussion-section2-Quiz-Oct25",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-10-25T15:20:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5216885/submissions/282044016",
+      "submitted": true
+    },
+    {
       "title": "Discussion-section1-Quiz-Oct25",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-10-25T12:00:00",
