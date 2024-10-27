@@ -258,8 +258,8 @@ assignments = {
       "title": "CP4 milestone 1: Baby CPU",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/5157525/submissions/282473411",
+      "submitted": true
     },
     {
       "title": "CP4 milestone 2: Hazardous Processor",
