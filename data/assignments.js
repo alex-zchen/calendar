@@ -467,6 +467,27 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Determinants I Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-05T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620347/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Determinants II Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-05T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620348/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Complex Numbers Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-05T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620350/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
@@ -624,6 +645,27 @@ assignments = {
       "title": "A=QR Factorizations Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-29T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Complex Numbers Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-05T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Determinants I Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-05T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Determinants II Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-05T23:30:00",
       "link": "https://www.gradescope.com/courses/803996",
       "submitted": false
     },
