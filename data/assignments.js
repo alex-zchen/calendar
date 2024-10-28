@@ -255,21 +255,21 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "CP4 milestone 1: Baby CPU",
+      "title": "CP4 Milestone 1: Baby CPU",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-10-27T23:59:00",
       "link": "https://www.gradescope.com/courses/808240/assignments/5157525/submissions/282487028",
       "submitted": true
     },
     {
-      "title": "CP4 milestone 2: Hazardous Processor",
+      "title": "CP4 Milestone 2: Hazardous Processor",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-11-02T23:59:00",
       "link": "https://www.gradescope.com/courses/808240",
       "submitted": false
     },
     {
-      "title": "CP4 final: Complete CPU",
+      "title": "CP4 Final: Complete CPU",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-11-11T23:59:00",
       "link": "https://www.gradescope.com/courses/808240",
