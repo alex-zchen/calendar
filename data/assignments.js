@@ -470,8 +470,8 @@ assignments = {
       "title": "A=QR Factorizations Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-10-29T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620342/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620342/submissions/283413269",
+      "submitted": true
     },
     {
       "title": "Determinants I Quiz",
