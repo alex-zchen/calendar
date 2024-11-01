@@ -186,8 +186,8 @@ assignments = {
       "title": "Discussion-section2-Quiz-Nov1",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-11-01T15:20:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5252958/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5252958/submissions/284534216",
+      "submitted": true
     }
   ],
   "ECE 350L.001.Fa24": [
