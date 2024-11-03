@@ -320,7 +320,7 @@ assignments = {
     {
       "title": "[LATE + TESTING] CP4 Milestone 2: Hazardous Processor",
       "course": "ECE 350L.001.Fa24",
-      "dueDate": "2024-11-02T23:59:00",
+      "dueDate": "2024-12-16T23:59:00",
       "link": "https://www.gradescope.com/courses/808240",
       "submitted": false
     }
