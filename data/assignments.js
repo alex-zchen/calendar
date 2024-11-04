@@ -188,6 +188,13 @@ assignments = {
       "dueDate": "2024-11-01T15:20:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5252958/submissions/284534216",
       "submitted": true
+    },
+    {
+      "title": "Project Weekly Updates - Week of 11/07",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-07T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
