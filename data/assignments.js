@@ -195,6 +195,13 @@ assignments = {
       "dueDate": "2024-11-07T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
+    },
+    {
+      "title": "Homework  4 ",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-07T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
