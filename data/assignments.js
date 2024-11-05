@@ -715,22 +715,22 @@ assignments = {
       "title": "Complex Numbers Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-05T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620884/submissions/285805502",
+      "submitted": true
     },
     {
       "title": "Determinants I Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-05T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620885/submissions/285805145",
+      "submitted": true
     },
     {
       "title": "Determinants II Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-05T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620886/submissions/285805362",
+      "submitted": true
     },
     {
       "title": "Polynomial Algebra Problem Set",
