@@ -526,8 +526,8 @@ assignments = {
       "title": "Complex Numbers Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-05T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620350/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620350/submissions/285783812",
+      "submitted": true
     },
     {
       "title": "Polynomial Algebra Quiz",
