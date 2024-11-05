@@ -195,6 +195,13 @@ assignments = {
       "dueDate": "2024-11-07T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
+    },
+    {
+      "title": "Homework  4 ",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-07T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
@@ -505,15 +512,15 @@ assignments = {
       "title": "Determinants I Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-05T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620347/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620347/submissions/285768717",
+      "submitted": true
     },
     {
       "title": "Determinants II Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-05T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620348/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620348/submissions/285774688",
+      "submitted": true
     },
     {
       "title": "Complex Numbers Quiz",
