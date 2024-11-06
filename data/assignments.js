@@ -300,8 +300,8 @@ assignments = {
       "title": "CP4 Milestone 2: Hazardous Processor",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-11-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/5157530/submissions/285899416",
+      "submitted": true
     },
     {
       "title": "CP4 Final: Complete CPU",
