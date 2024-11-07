@@ -193,8 +193,8 @@ assignments = {
       "title": "Project Weekly Updates - Week of 11/07",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-11-07T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5263593/submissions/286635430",
+      "submitted": true
     },
     {
       "title": "Homework  4 ",
@@ -207,8 +207,8 @@ assignments = {
       "title": "HW4- Help and late day declaration",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-11-07T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5277549/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5277549/submissions/286634927",
+      "submitted": true
     }
   ],
   "ECE 350L.001.Fa24": [
