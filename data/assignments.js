@@ -335,7 +335,7 @@ assignments = {
       "title": "CP4 Final: Complete CPU",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-11-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240/assignments/5157533/submissions/287442363",
+      "link": "https://www.gradescope.com/courses/808240/assignments/5157533/submissions/287446415",
       "submitted": true
     },
     {
