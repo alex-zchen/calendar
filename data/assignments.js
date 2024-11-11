@@ -586,6 +586,27 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Definiteness Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-19T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620386/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Matrix Exponentials Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-19T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620387/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "The Spectral Theorem Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-19T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620388/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
@@ -785,6 +806,27 @@ assignments = {
       "title": "Diagonalization Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-12T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Matrix Exponentials Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-19T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "The Spectral Theorem Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-19T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996",
+      "submitted": false
+    },
+    {
+      "title": "Definiteness Problem Set",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-11-19T23:30:00",
       "link": "https://www.gradescope.com/courses/803996",
       "submitted": false
     },
