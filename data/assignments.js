@@ -241,7 +241,7 @@ assignments = {
     {
       "title": "Project Milestone 4",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-11-12T23:59:00",
+      "dueDate": "2024-11-13T23:59:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5310668/submissions/new",
       "submitted": false
     }
