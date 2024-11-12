@@ -230,6 +230,20 @@ assignments = {
       "dueDate": "2024-11-18T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
+    },
+    {
+      "title": "Project Weekly Updates - Week of 11/14",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-14T06:00:00",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
+    },
+    {
+      "title": "Project Milestone 4",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5310668/submissions/new",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
