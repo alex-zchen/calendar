@@ -582,8 +582,8 @@ assignments = {
       "title": "Polynomial Algebra Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-12T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620383/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620383/submissions/288319782",
+      "submitted": true
     },
     {
       "title": "The Characteristic Polynomial Quiz",
