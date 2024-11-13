@@ -589,15 +589,15 @@ assignments = {
       "title": "The Characteristic Polynomial Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-12T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620384/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620384/submissions/288352632",
+      "submitted": true
     },
     {
       "title": "Diagonalization Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-12T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620385/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620385/submissions/288355270",
+      "submitted": true
     },
     {
       "title": "Definiteness Quiz",
@@ -806,22 +806,22 @@ assignments = {
       "title": "Polynomial Algebra Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-12T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620903/submissions/288360823",
+      "submitted": true
     },
     {
       "title": "The Characteristic Polynomial Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-12T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620904/submissions/288360928",
+      "submitted": true
     },
     {
       "title": "Diagonalization Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-12T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620905/submissions/288361456",
+      "submitted": true
     },
     {
       "title": "Matrix Exponentials Problem Set",
