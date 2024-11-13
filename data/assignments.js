@@ -407,6 +407,13 @@ assignments = {
       "dueDate": "2024-12-16T23:59:00",
       "link": "https://www.gradescope.com/courses/808240/assignments/5262385/submissions/285278276",
       "submitted": true
+    },
+    {
+      "title": "[LATE + TESTING] CP4 Final: Complete CPU",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-12-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
     }
   ],
   "MATH 218D-2.001.Fa24": [
