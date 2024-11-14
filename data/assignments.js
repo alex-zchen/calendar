@@ -242,8 +242,8 @@ assignments = {
       "title": "Project Weekly Updates - Week of 11/14",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-11-14T18:00:00",
-      "link": "https://www.gradescope.com/courses/842993",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5310628/submissions/289124722",
+      "submitted": true
     },
     {
       "title": "Project Milestone 4",
