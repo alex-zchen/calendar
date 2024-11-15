@@ -267,6 +267,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Discussion-section1-Quiz-Nov15",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-15T12:00:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5327181/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW5- Help and late day declaration",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-11-20T18:00:00",
