@@ -270,7 +270,14 @@ assignments = {
       "title": "Discussion-section1-Quiz-Nov15",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-11-15T12:00:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5327181/submissions/new",
+      "link": "https://www.gradescope.com/courses/842993",
+      "submitted": false
+    },
+    {
+      "title": "Discussion-section2-Quiz-Nov15",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-15T15:20:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5327239/submissions/new",
       "submitted": false
     },
     {
@@ -426,8 +433,8 @@ assignments = {
       "title": "[LATE + TESTING] CP4 Final: Complete CPU",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-12-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/808240/assignments/5311450/submissions/289445461",
+      "submitted": true
     }
   ],
   "MATH 218D-2.001.Fa24": [
