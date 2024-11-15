@@ -265,6 +265,13 @@ assignments = {
       "dueDate": "2024-11-20T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
+    },
+    {
+      "title": "HW5- Help and late day declaration",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-11-20T18:00:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5327978/submissions/new",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
