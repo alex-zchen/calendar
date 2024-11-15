@@ -277,8 +277,8 @@ assignments = {
       "title": "Discussion-section2-Quiz-Nov15",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-11-15T15:20:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5327239/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5327239/submissions/289448696",
+      "submitted": true
     },
     {
       "title": "HW5- Help and late day declaration",
@@ -433,7 +433,7 @@ assignments = {
       "title": "[LATE + TESTING] CP4 Final: Complete CPU",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-12-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240/assignments/5311450/submissions/289445461",
+      "link": "https://www.gradescope.com/courses/808240/assignments/5311450/submissions/289447173",
       "submitted": true
     }
   ],
