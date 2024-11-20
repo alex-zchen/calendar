@@ -652,22 +652,22 @@ assignments = {
       "title": "Definiteness Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-19T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620386/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620386/submissions/290824417",
+      "submitted": true
     },
     {
       "title": "Matrix Exponentials Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-19T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620387/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620387/submissions/290813250",
+      "submitted": true
     },
     {
       "title": "The Spectral Theorem Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-19T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620388/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620388/submissions/290817670",
+      "submitted": true
     },
     {
       "title": "Singular Value Decomposition Quiz",
