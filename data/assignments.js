@@ -883,22 +883,22 @@ assignments = {
       "title": "Matrix Exponentials Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-19T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620909/submissions/290866746",
+      "submitted": true
     },
     {
       "title": "The Spectral Theorem Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-19T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620910/submissions/290866679",
+      "submitted": true
     },
     {
       "title": "Definiteness Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-19T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620911/submissions/290866525",
+      "submitted": true
     },
     {
       "title": "Singular Value Decomposition Problem Set",
