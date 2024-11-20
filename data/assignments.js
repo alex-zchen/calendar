@@ -227,14 +227,14 @@ assignments = {
     {
       "title": "HW5 XML",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-11-20T18:00:00",
+      "dueDate": "2024-11-21T18:00:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5295046/submissions/290658386",
       "submitted": true
     },
     {
       "title": "HW5 JSON",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-11-20T18:00:00",
+      "dueDate": "2024-11-21T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     },
@@ -255,14 +255,14 @@ assignments = {
     {
       "title": "HW5 X1",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-11-20T18:00:00",
+      "dueDate": "2024-11-21T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     },
     {
       "title": "HW5 X2",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-11-20T18:00:00",
+      "dueDate": "2024-11-21T18:00:00",
       "link": "https://www.gradescope.com/courses/842993",
       "submitted": false
     },
@@ -283,7 +283,7 @@ assignments = {
     {
       "title": "HW5- Help and late day declaration",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-11-20T18:00:00",
+      "dueDate": "2024-11-21T18:00:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5327978/submissions/290658835",
       "submitted": true
     }
@@ -421,6 +421,13 @@ assignments = {
       "dueDate": "2024-11-05T23:59:00",
       "link": "https://www.gradescope.com/courses/808240/assignments/5190394/submissions/285877294",
       "submitted": true
+    },
+    {
+      "title": "Project: Technical report",
+      "course": "ECE 350L.001.Fa24",
+      "dueDate": "2024-12-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/808240",
+      "submitted": false
     },
     {
       "title": "[LATE + TESTING] CP4 Milestone 2: Hazardous Processor",
