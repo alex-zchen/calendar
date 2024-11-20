@@ -227,7 +227,7 @@ assignments = {
     {
       "title": "HW5 XML",
       "course": "CompSci 316 - Fall 2024",
-      "dueDate": "2024-11-18T18:00:00",
+      "dueDate": "2024-11-20T18:00:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5295046/submissions/290658386",
       "submitted": true
     },
