@@ -412,7 +412,7 @@ assignments = {
       "title": "Homework 6",
       "course": "ECE 350L.001.Fa24",
       "dueDate": "2024-11-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/808240/assignments/5190292/submissions/290802897",
+      "link": "https://www.gradescope.com/courses/808240/assignments/5190292/submissions/290932069",
       "submitted": true
     },
     {
