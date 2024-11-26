@@ -701,8 +701,8 @@ assignments = {
       "title": "Singular Value Decomposition Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-26T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620391/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620391/submissions/293080621",
+      "submitted": true
     },
     {
       "title": "Partial Derivatives Quiz",
