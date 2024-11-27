@@ -939,8 +939,8 @@ assignments = {
       "title": "Singular Value Decomposition Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-11-26T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620928/submissions/293083001",
+      "submitted": true
     },
     {
       "title": "Welcome! Quiz",
