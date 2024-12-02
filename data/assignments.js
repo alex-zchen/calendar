@@ -307,6 +307,13 @@ assignments = {
       "dueDate": "2024-11-22T15:20:00",
       "link": "https://www.gradescope.com/courses/842993/assignments/5365592/submissions/291923162",
       "submitted": true
+    },
+    {
+      "title": "Final Project",
+      "course": "CompSci 316 - Fall 2024",
+      "dueDate": "2024-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/842993/assignments/5400338/submissions/new",
+      "submitted": false
     }
   ],
   "ECE 350L.001.Fa24": [
