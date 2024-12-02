@@ -719,6 +719,27 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Linear Approximations Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-12-10T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620394/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Cholesky Factorizations Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-12-10T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620395/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "The Hessian Quiz",
+      "course": "MATH 218D-2.001.Fa24",
+      "dueDate": "2024-12-10T23:30:00",
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620396/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Matrices and Vectors Problem Set",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-09-03T23:30:00",
