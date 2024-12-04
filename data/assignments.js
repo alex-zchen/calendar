@@ -722,8 +722,8 @@ assignments = {
       "title": "Partial Derivatives Quiz",
       "course": "MATH 218D-2.001.Fa24",
       "dueDate": "2024-12-03T23:30:00",
-      "link": "https://www.gradescope.com/courses/803996/assignments/4620392/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/803996/assignments/4620392/submissions/294309522",
+      "submitted": true
     },
     {
       "title": "Linear Approximations Quiz",
