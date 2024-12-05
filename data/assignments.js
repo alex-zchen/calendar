@@ -312,8 +312,8 @@ assignments = {
       "title": "Final Project",
       "course": "CompSci 316 - Fall 2024",
       "dueDate": "2024-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/842993/assignments/5400338/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/842993/assignments/5400338/submissions/294703381",
+      "submitted": true
     }
   ],
   "ECE 350L.001.Fa24": [
