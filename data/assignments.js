@@ -1,10 +1,10 @@
 assignments = {
   "ECE 230L9.01L.Sp25": [
     {
-      "title": "Prelab 0",
+      "title": "Prelab 1",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-01-13T08:00:00",
-      "link": "https://www.gradescope.com/courses/929856/assignments/5476529/submissions/new",
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476519/submissions/new",
       "submitted": false
     },
     {
