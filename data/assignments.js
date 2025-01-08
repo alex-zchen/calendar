@@ -11,8 +11,8 @@ assignments = {
       "title": "Lab 0 Mask Design",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-01-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/929856/assignments/5476542/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476542/submissions/299137231",
+      "submitted": true
     }
   ],
   "ECE 280L9.01L.Sp25": [],
