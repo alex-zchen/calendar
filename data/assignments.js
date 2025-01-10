@@ -32,5 +32,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/937795",
       "submitted": false
     }
-  ]
+  ],
+  "PHYSICS 152L.001.Sp25": []
 };
