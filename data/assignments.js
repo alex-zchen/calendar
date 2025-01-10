@@ -24,5 +24,13 @@ assignments = {
       "submitted": true
     }
   ],
-  "MATH 219.08.Sp25": []
+  "MATH 219.08.Sp25": [
+    {
+      "title": "Homework 1",
+      "course": "MATH 219.08.Sp25",
+      "dueDate": "2025-01-16T10:00:00",
+      "link": "https://www.gradescope.com/courses/937795",
+      "submitted": false
+    }
+  ]
 };
