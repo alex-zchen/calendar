@@ -28,7 +28,7 @@ assignments = {
     {
       "title": "Homework 1",
       "course": "MATH 219.08.Sp25",
-      "dueDate": "2025-01-16T10:00:00",
+      "dueDate": "2025-01-16T08:00:00",
       "link": "https://www.gradescope.com/courses/937795",
       "submitted": false
     }
