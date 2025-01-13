@@ -8,6 +8,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Prelab 0",
+      "course": "ECE 230L9.01L.Sp25",
+      "dueDate": "2025-01-27T08:00:00",
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476529/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Lab 0 Mask Design",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-01-17T23:59:00",
