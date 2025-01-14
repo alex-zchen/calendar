@@ -1,4 +1,13 @@
 assignments = {
+  "ECE 230L.002.Sp25": [
+    {
+      "title": "Homework 1",
+      "course": "ECE 230L.002.Sp25",
+      "dueDate": "2025-01-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/952908",
+      "submitted": false
+    }
+  ],
   "ECE 230L9.01L.Sp25": [
     {
       "title": "Prelab 1",
