@@ -43,8 +43,8 @@ assignments = {
       "title": "ECE 280 Lab 0",
       "course": "ECE 280L9.01L.Sp25",
       "dueDate": "2025-01-25T21:00:00",
-      "link": "https://www.gradescope.com/courses/932061",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/932061/assignments/5490862/submissions/300232122",
+      "submitted": true
     }
   ],
   "MATH 219.08.Sp25": [
