@@ -47,6 +47,13 @@ assignments = {
   ],
   "ECE 280L9.01L.Sp25": [
     {
+      "title": "ECE 280 Lab 1",
+      "course": "ECE 280L9.01L.Sp25",
+      "dueDate": "2025-02-15T21:00:00",
+      "link": "https://www.gradescope.com/courses/932061",
+      "submitted": false
+    },
+    {
       "title": "ECE 280 Prelab 0",
       "course": "ECE 280L9.01L.Sp25",
       "dueDate": "2025-01-12T21:00:00",
@@ -75,6 +82,13 @@ assignments = {
       "dueDate": "2025-01-23T08:00:00",
       "link": "https://www.gradescope.com/courses/937795/assignments/5616002/submissions/301369026",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "MATH 219.08.Sp25",
+      "dueDate": "2025-02-02T22:00:00",
+      "link": "https://www.gradescope.com/courses/937795",
+      "submitted": false
     }
   ],
   "PHYSICS 152L.001.Sp25": []
