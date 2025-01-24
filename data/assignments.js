@@ -45,7 +45,15 @@ assignments = {
       "submitted": true
     }
   ],
-  "ECE 280L.01.Sp25": [],
+  "ECE 280L.01.Sp25": [
+    {
+      "title": "Homework 1",
+      "course": "ECE 280L.01.Sp25",
+      "dueDate": "2025-01-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/965832",
+      "submitted": false
+    }
+  ],
   "ECE 280L9.01L.Sp25": [
     {
       "title": "ECE 280 Lab 1",
