@@ -18,8 +18,8 @@ assignments = {
       "title": "Homework 3",
       "course": "ECE 230L.002.Sp25",
       "dueDate": "2025-02-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/952908",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952908/assignments/5711610/submissions/305184906",
+      "submitted": true
     }
   ],
   "ECE 230L9.01L.Sp25": [
@@ -78,7 +78,7 @@ assignments = {
       "title": "Homework 2",
       "course": "ECE 280L.01.Sp25",
       "dueDate": "2025-02-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/965832/assignments/5695302/submissions/305123749",
+      "link": "https://www.gradescope.com/courses/965832/assignments/5695302/submissions/305191031",
       "submitted": true
     }
   ],
