@@ -99,8 +99,8 @@ assignments = {
       "title": "Homework 3",
       "course": "ECE 280L.01.Sp25",
       "dueDate": "2025-02-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/965832",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/965832/assignments/5735513/submissions/308124714",
+      "submitted": true
     },
     {
       "title": "Homework 4",
