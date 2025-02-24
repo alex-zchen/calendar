@@ -247,6 +247,13 @@ assignments = {
       "dueDate": "2025-02-03T17:00:00",
       "link": "https://www.gradescope.com/courses/948607/assignments/5678541/submissions/302463978",
       "submitted": true
+    },
+    {
+      "title": "Lab 3 Resistance & RC Circuits",
+      "course": "PHYSICS 152L.001.Sp25",
+      "dueDate": "2025-03-03T17:00:00",
+      "link": "https://www.gradescope.com/courses/948607",
+      "submitted": false
     }
   ]
 };
