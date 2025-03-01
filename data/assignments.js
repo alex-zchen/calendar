@@ -83,8 +83,8 @@ assignments = {
       "title": "Lab 2 Van der Pauw Resistivity",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-02-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/929856",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476536/submissions/313387987",
+      "submitted": true
     },
     {
       "title": "Prelab 4",
