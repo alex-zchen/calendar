@@ -117,7 +117,7 @@ assignments = {
     {
       "title": "Lab 4 PSpice Circuit Simulation",
       "course": "ECE 230L9.01L.Sp25",
-      "dueDate": "2025-03-14T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/929856",
       "submitted": false
     }
