@@ -271,8 +271,8 @@ assignments = {
       "title": "Homework 8",
       "course": "MATH 219.08.Sp25",
       "dueDate": "2025-03-06T08:00:00",
-      "link": "https://www.gradescope.com/courses/937795",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/937795/assignments/5863027/submissions/314805696",
+      "submitted": true
     }
   ],
   "PHYSICS 152L.001.Sp25": [
