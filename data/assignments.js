@@ -48,8 +48,8 @@ assignments = {
       "title": "Prelab 5",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-03-17T08:00:00",
-      "link": "https://www.gradescope.com/courses/929856/assignments/5476509/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476509/submissions/317701779",
+      "submitted": true
     },
     {
       "title": "Lab 5 MOSFET Characterization",
