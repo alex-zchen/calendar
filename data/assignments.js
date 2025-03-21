@@ -343,6 +343,13 @@ assignments = {
       "dueDate": "2025-03-20T08:00:00",
       "link": "https://www.gradescope.com/courses/937795/assignments/5927376/submissions/318535518",
       "submitted": true
+    },
+    {
+      "title": "Homework 10",
+      "course": "MATH 219.08.Sp25",
+      "dueDate": "2025-03-27T08:00:00",
+      "link": "https://www.gradescope.com/courses/937795",
+      "submitted": false
     }
   ],
   "PHYSICS 152L.001.Sp25": [
