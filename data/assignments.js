@@ -146,8 +146,8 @@ assignments = {
       "title": "Lab 4 PSpice Circuit Simulation",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-03-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/929856",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476544/submissions/319129972",
+      "submitted": true
     },
     {
       "title": "Lab 6 MOSFET PSpice Simulation",
@@ -189,7 +189,7 @@ assignments = {
     {
       "title": "Homework 5",
       "course": "ECE 280L.01.Sp25",
-      "dueDate": "2025-03-21T11:59:00",
+      "dueDate": "2025-03-22T11:59:00",
       "link": "https://www.gradescope.com/courses/965832/assignments/5908847/submissions/318893480",
       "submitted": true
     }
