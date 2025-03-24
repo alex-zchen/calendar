@@ -192,6 +192,13 @@ assignments = {
       "dueDate": "2025-03-22T11:59:00",
       "link": "https://www.gradescope.com/courses/965832/assignments/5908847/submissions/318893480",
       "submitted": true
+    },
+    {
+      "title": "Homework 6",
+      "course": "ECE 280L.01.Sp25",
+      "dueDate": "2025-03-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/965832",
+      "submitted": false
     }
   ],
   "ECE 280L9.01L.Sp25": [
