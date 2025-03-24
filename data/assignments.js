@@ -80,6 +80,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 7 Discrete Digital Circuits",
+      "course": "ECE 230L9.01L.Sp25",
+      "dueDate": "2025-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/929856",
+      "submitted": false
+    },
+    {
       "title": "Prelab 1",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-01-13T08:00:00",
@@ -154,6 +161,13 @@ assignments = {
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-04-04T23:59:00",
       "link": "https://www.gradescope.com/courses/929856",
+      "submitted": false
+    },
+    {
+      "title": "Prelab 7",
+      "course": "ECE 230L9.01L.Sp25",
+      "dueDate": "2025-04-07T08:00:00",
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476548/submissions/new",
       "submitted": false
     }
   ],
