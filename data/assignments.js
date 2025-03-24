@@ -46,8 +46,8 @@ assignments = {
       "title": "HW 7",
       "course": "ECE 230L.002.Sp25",
       "dueDate": "2025-03-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/952908",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952908/assignments/5955315/submissions/319403453",
+      "submitted": true
     },
     {
       "title": "Homework 8",
@@ -132,8 +132,8 @@ assignments = {
       "title": "Prelab 6",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-03-24T08:00:00",
-      "link": "https://www.gradescope.com/courses/929856/assignments/5476541/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476541/submissions/319400075",
+      "submitted": true
     },
     {
       "title": "Lab 0 Mask Design",
@@ -236,6 +236,13 @@ assignments = {
       "dueDate": "2025-03-22T21:00:00",
       "link": "https://www.gradescope.com/courses/932061/assignments/5490856/submissions/319254935",
       "submitted": true
+    },
+    {
+      "title": "ECE 280 Prelab 7",
+      "course": "ECE 280L9.01L.Sp25",
+      "dueDate": "2025-03-30T21:00:00",
+      "link": "https://www.gradescope.com/courses/932061/assignments/5490857/submissions/new",
+      "submitted": false
     },
     {
       "title": "ECE 280 Prelab 5",
