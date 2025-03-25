@@ -394,6 +394,13 @@ assignments = {
       "dueDate": "2025-03-03T17:00:00",
       "link": "https://www.gradescope.com/courses/948607/assignments/5844915/submissions/311741258",
       "submitted": true
+    },
+    {
+      "title": "Lab 4 Magnetic Force",
+      "course": "PHYSICS 152L.001.Sp25",
+      "dueDate": "2025-03-31T17:00:00",
+      "link": "https://www.gradescope.com/courses/948607",
+      "submitted": false
     }
   ]
 };
