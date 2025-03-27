@@ -231,6 +231,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "ECE 280 Lab 6",
+      "course": "ECE 280L9.01L.Sp25",
+      "dueDate": "2025-04-05T21:00:00",
+      "link": "https://www.gradescope.com/courses/932061",
+      "submitted": false
+    },
+    {
       "title": "ECE 280 Lab 1",
       "course": "ECE 280L9.01L.Sp25",
       "dueDate": "2025-02-15T21:00:00",
@@ -380,16 +387,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Homework 11 old",
+      "title": "Homework 11",
       "course": "MATH 219.08.Sp25",
-      "dueDate": "2025-04-11T23:00:00",
-      "link": "https://www.gradescope.com/courses/937795",
-      "submitted": false
-    },
-    {
-      "title": "Homework 10 old",
-      "course": "MATH 219.08.Sp25",
-      "dueDate": "2025-04-04T23:00:00",
+      "dueDate": "2025-04-03T08:00:00",
       "link": "https://www.gradescope.com/courses/937795",
       "submitted": false
     }
