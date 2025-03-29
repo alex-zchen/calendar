@@ -69,8 +69,8 @@ assignments = {
       "title": "Lab 5 MOSFET Characterization",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-03-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/929856",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476510/submissions/320811111",
+      "submitted": true
     },
     {
       "title": "Lab 3 PN Junction Diodes",
