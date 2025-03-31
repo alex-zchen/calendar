@@ -213,6 +213,13 @@ assignments = {
       "dueDate": "2025-03-30T23:59:00",
       "link": "https://www.gradescope.com/courses/965832/assignments/5977004/submissions/321074295",
       "submitted": true
+    },
+    {
+      "title": "Homework 7",
+      "course": "ECE 280L.01.Sp25",
+      "dueDate": "2025-04-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/965832",
+      "submitted": false
     }
   ],
   "ECE 280L9.01L.Sp25": [
@@ -427,8 +434,8 @@ assignments = {
       "title": "Lab 5 Faraday's Law",
       "course": "PHYSICS 152L.001.Sp25",
       "dueDate": "2025-04-07T17:00:00",
-      "link": "https://www.gradescope.com/courses/948607",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948607/assignments/6014755/submissions/321242388",
+      "submitted": true
     }
   ]
 };
