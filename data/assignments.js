@@ -211,8 +211,8 @@ assignments = {
       "title": "Homework 6",
       "course": "ECE 280L.01.Sp25",
       "dueDate": "2025-03-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/965832",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/965832/assignments/5977004/submissions/321074295",
+      "submitted": true
     }
   ],
   "ECE 280L9.01L.Sp25": [
@@ -292,6 +292,13 @@ assignments = {
       "dueDate": "2025-03-23T21:00:00",
       "link": "https://www.gradescope.com/courses/932061/assignments/5490860/submissions/319355100",
       "submitted": true
+    },
+    {
+      "title": "ECE 280 Prelab 8",
+      "course": "ECE 280L9.01L.Sp25",
+      "dueDate": "2025-04-06T21:00:00",
+      "link": "https://www.gradescope.com/courses/932061/assignments/5490861/submissions/new",
+      "submitted": false
     },
     {
       "title": "ECE 280 Lab 0",
