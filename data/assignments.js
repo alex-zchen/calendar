@@ -55,6 +55,13 @@ assignments = {
       "dueDate": "2025-03-27T23:59:00",
       "link": "https://www.gradescope.com/courses/952908/assignments/5963945/submissions/320562252",
       "submitted": true
+    },
+    {
+      "title": "Homework 9",
+      "course": "ECE 230L.002.Sp25",
+      "dueDate": "2025-04-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/952908",
+      "submitted": false
     }
   ],
   "ECE 230L9.01L.Sp25": [
