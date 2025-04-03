@@ -238,6 +238,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "ECE 280 Lab 7",
+      "course": "ECE 280L9.01L.Sp25",
+      "dueDate": "2025-04-12T21:00:00",
+      "link": "https://www.gradescope.com/courses/932061",
+      "submitted": false
+    },
+    {
       "title": "ECE 280 Lab 3",
       "course": "ECE 280L9.01L.Sp25",
       "dueDate": "2025-03-08T21:00:00",
