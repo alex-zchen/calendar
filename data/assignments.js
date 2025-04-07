@@ -224,7 +224,7 @@ assignments = {
     {
       "title": "Homework 7",
       "course": "ECE 280L.01.Sp25",
-      "dueDate": "2025-04-07T23:59:00",
+      "dueDate": "2025-04-08T23:59:00",
       "link": "https://www.gradescope.com/courses/965832",
       "submitted": false
     }
@@ -464,6 +464,13 @@ assignments = {
       "dueDate": "2025-04-07T17:00:00",
       "link": "https://www.gradescope.com/courses/948607/assignments/6014755/submissions/321242388",
       "submitted": true
+    },
+    {
+      "title": "Lab 6 RC Circuits Part 2 - Additional DC & RC circuit practice",
+      "course": "PHYSICS 152L.001.Sp25",
+      "dueDate": "2025-04-14T17:00:00",
+      "link": "https://www.gradescope.com/courses/948607",
+      "submitted": false
     }
   ]
 };
