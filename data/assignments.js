@@ -469,8 +469,8 @@ assignments = {
       "title": "Lab 6 RC Circuits Part 2 - Additional DC & RC circuit practice",
       "course": "PHYSICS 152L.001.Sp25",
       "dueDate": "2025-04-14T17:00:00",
-      "link": "https://www.gradescope.com/courses/948607",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948607/assignments/6050275/submissions/323173895",
+      "submitted": true
     }
   ]
 };
