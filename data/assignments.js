@@ -167,7 +167,7 @@ assignments = {
       "title": "Lab 6 MOSFET PSpice Simulation",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/929856/assignments/5476546/submissions/322568796",
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476546/submissions/324690341",
       "submitted": true
     },
     {
