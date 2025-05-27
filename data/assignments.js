@@ -43,7 +43,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW 7",
+      "title": "Homework 7",
       "course": "ECE 230L.002.Sp25",
       "dueDate": "2025-03-25T23:59:00",
       "link": "https://www.gradescope.com/courses/952908/assignments/5955315/submissions/319403453",
@@ -90,8 +90,8 @@ assignments = {
       "title": "Lab 7 Discrete Digital Circuits",
       "course": "ECE 230L9.01L.Sp25",
       "dueDate": "2025-04-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/929856",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/929856/assignments/5476518/submissions/326753556",
+      "submitted": true
     },
     {
       "title": "Prelab 1",
@@ -280,6 +280,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "ECE 280 Lab 9",
+      "course": "ECE 280L9.01L.Sp25",
+      "dueDate": "2025-04-23T21:00:00",
+      "link": "https://www.gradescope.com/courses/932061/assignments/5490855/submissions/326312193",
+      "submitted": true
+    },
+    {
       "title": "ECE 280 Lab 4",
       "course": "ECE 280L9.01L.Sp25",
       "dueDate": "2025-03-22T21:00:00",
@@ -446,8 +453,8 @@ assignments = {
       "title": "Homework 13",
       "course": "MATH 219.08.Sp25",
       "dueDate": "2025-04-22T10:15:00",
-      "link": "https://www.gradescope.com/courses/937795",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/937795/assignments/6075268/submissions/327303145",
+      "submitted": true
     }
   ],
   "PHYSICS 152L.001.Sp25": [
@@ -480,7 +487,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab 6 RC Circuits Part 2 - Additional DC & RC circuit practice",
+      "title": "Lab 6 RC Circuits Pt 2",
       "course": "PHYSICS 152L.001.Sp25",
       "dueDate": "2025-04-14T17:00:00",
       "link": "https://www.gradescope.com/courses/948607/assignments/6050275/submissions/323173895",
