@@ -36,8 +36,8 @@ assignments = {
       "title": "Prelab 1: Waves",
       "course": "ECE 270L9.Fa25",
       "dueDate": "2025-09-08T22:00:00",
-      "link": "https://www.gradescope.com/courses/1069870",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1069870/assignments/6427620/submissions/344764430",
+      "submitted": true
     }
   ],
   "MATH 230.05 and 230.06 \u2014 Assignments": [
@@ -75,7 +75,7 @@ assignments = {
       "title": "HW2",
       "course": "MATH 353/753.04.Fa25",
       "dueDate": "2025-09-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/1099843/assignments/6675156/submissions/344730675",
+      "link": "https://www.gradescope.com/courses/1099843/assignments/6675156/submissions/344788513",
       "submitted": true
     }
   ]
