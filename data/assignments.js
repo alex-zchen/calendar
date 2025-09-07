@@ -11,8 +11,8 @@ assignments = {
       "title": "Lab Alarm",
       "course": "COMPSCI 310.001.Fa25",
       "dueDate": "2025-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/1087472",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1087472/assignments/6630635/submissions/343379805",
+      "submitted": true
     }
   ],
   "ECE 270DL.001.Fa25": [
@@ -22,9 +22,24 @@ assignments = {
       "dueDate": "2025-09-01T10:00:00",
       "link": "https://www.gradescope.com/courses/1101321/assignments/6594301/submissions/342802532",
       "submitted": true
+    },
+    {
+      "title": "ECE 270.Fa25 Homework2",
+      "course": "ECE 270DL.001.Fa25",
+      "dueDate": "2025-09-08T10:00:00",
+      "link": "https://www.gradescope.com/courses/1101321/assignments/6648944/submissions/344331470",
+      "submitted": true
     }
   ],
-  "ECE 270L9.Fa25": [],
+  "ECE 270L9.Fa25": [
+    {
+      "title": "Prelab 1: Waves",
+      "course": "ECE 270L9.Fa25",
+      "dueDate": "2025-09-08T22:00:00",
+      "link": "https://www.gradescope.com/courses/1069870",
+      "submitted": false
+    }
+  ],
   "MATH 230.05 and 230.06 \u2014 Assignments": [
     {
       "title": "Subission practice for new users",
@@ -37,6 +52,13 @@ assignments = {
       "title": "Assignment 1",
       "course": "MATH 230.05 and 230.06 \u2014 Assignments",
       "dueDate": "2025-09-05T17:00:00",
+      "link": "https://www.gradescope.com/courses/1075503/assignments/6619857/submissions/343914147",
+      "submitted": true
+    },
+    {
+      "title": "Assignment 2",
+      "course": "MATH 230.05 and 230.06 \u2014 Assignments",
+      "dueDate": "2025-09-12T17:00:00",
       "link": "https://www.gradescope.com/courses/1075503",
       "submitted": false
     }
@@ -46,8 +68,15 @@ assignments = {
       "title": "HW1",
       "course": "MATH 353/753.04.Fa25",
       "dueDate": "2025-09-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/1099843",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1099843/assignments/6623680/submissions/343276981",
+      "submitted": true
+    },
+    {
+      "title": "HW2",
+      "course": "MATH 353/753.04.Fa25",
+      "dueDate": "2025-09-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/1099843/assignments/6675156/submissions/344730675",
+      "submitted": true
     }
   ]
 };
