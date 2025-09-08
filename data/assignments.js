@@ -1,27 +1,4 @@
 assignments = {
-  "COMPSCI 310.001.Fa25": [
-    {
-      "title": "Lab Util",
-      "course": "COMPSCI 310.001.Fa25",
-      "dueDate": "2025-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/1087472/assignments/6579518/submissions/342044710",
-      "submitted": true
-    },
-    {
-      "title": "Lab Alarm",
-      "course": "COMPSCI 310.001.Fa25",
-      "dueDate": "2025-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/1087472/assignments/6630635/submissions/343379805",
-      "submitted": true
-    },
-    {
-      "title": "Lab Memory",
-      "course": "COMPSCI 310.001.Fa25",
-      "dueDate": "2025-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1087472",
-      "submitted": false
-    }
-  ],
   "ECE 270DL.001.Fa25": [
     {
       "title": "ECE 270.Fa25 Homework1",
