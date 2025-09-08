@@ -22,6 +22,19 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
+    - name: Upgrade to latest Planit version
+      run: |
+        git config --global user.name 'planit'
+        git config --global user.email 'planit@tanjeffreyz.github.io'
+        git config --global pull.rebase false
+        git remote add planit 'https://github.com/tanjeffreyz/planit.git' || true
+        git fetch planit
+        # Only pull safe assets from upstream; do not overwrite workflows or code
+        git checkout planit/main -- docs || true
+        git checkout planit/main -- src/resources/templates || true
+        git checkout planit/main -- README.md || true
+
+
     - name: Set up Python 3.10
       uses: actions/setup-python@v4
       with:
