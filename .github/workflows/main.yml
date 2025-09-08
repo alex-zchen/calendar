@@ -48,7 +48,12 @@ jobs:
 
     - name: Commit new outputs
       run: |
-        git add . || true
-        git commit -m 'Updated assignments' || true
-        git push origin main
-        git push -f origin main:github-pages
+        git add -A
+        git reset HEAD -- .github || true
+        if ! git diff --cached --quiet; then
+          git commit -m 'Updated assignments'
+          git push origin main
+          git push -f origin main:github-pages
+        else
+          echo "No changes to commit"
+        fi
