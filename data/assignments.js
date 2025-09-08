@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2025-09-10T23:59:00",
       "link": "https://www.gradescope.com/courses/1087472/assignments/6630635/submissions/343379805",
       "submitted": true
+    },
+    {
+      "title": "Lab Memory",
+      "course": "COMPSCI 310.001.Fa25",
+      "dueDate": "2025-09-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/1087472",
+      "submitted": false
     }
   ],
   "ECE 270DL.001.Fa25": [
@@ -29,6 +36,13 @@ assignments = {
       "dueDate": "2025-09-08T10:00:00",
       "link": "https://www.gradescope.com/courses/1101321/assignments/6648944/submissions/344331470",
       "submitted": true
+    },
+    {
+      "title": "ECE 270.Fa25 Homework3",
+      "course": "ECE 270DL.001.Fa25",
+      "dueDate": "2025-09-15T10:00:00",
+      "link": "https://www.gradescope.com/courses/1101321",
+      "submitted": false
     }
   ],
   "ECE 270L9.Fa25": [
