@@ -9,6 +9,9 @@ on:
   schedule:
   - cron: '30 */1 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   build:
 
@@ -38,6 +41,11 @@ jobs:
         GRADESCOPE_USER: ${{ secrets.GRADESCOPE_USER }}
         GRADESCOPE_PASSWORD: ${{ secrets.GRADESCOPE_PASSWORD }}
     
+    - name: Configure Git user
+      run: |
+        git config user.name "alex-zchen"
+        git config user.email "azc4@duke.edu"
+
     - name: Commit new outputs
       run: |
         git add . || true
