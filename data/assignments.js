@@ -18,8 +18,8 @@ assignments = {
       "title": "Lab Memory",
       "course": "COMPSCI 310.001.Fa25",
       "dueDate": "2025-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1087472",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1087472/assignments/6701764/submissions/345697768",
+      "submitted": true
     }
   ],
   "ECE 270DL.001.Fa25": [
