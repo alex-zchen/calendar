@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2025-09-17T23:59:00",
       "link": "https://www.gradescope.com/courses/1087472/assignments/6701764/submissions/345697768",
       "submitted": true
+    },
+    {
+      "title": "Lab Sync",
+      "course": "COMPSCI 310.001.Fa25",
+      "dueDate": "2025-10-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/1087472",
+      "submitted": false
     }
   ],
   "ECE 270DL.001.Fa25": [
