@@ -41,8 +41,8 @@ assignments = {
       "title": "ECE 270.Fa25 Homework3",
       "course": "ECE 270DL.001.Fa25",
       "dueDate": "2025-09-17T10:00:00",
-      "link": "https://www.gradescope.com/courses/1101321",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1101321/assignments/6702112/submissions/347218141",
+      "submitted": true
     }
   ],
   "ECE 270L9.Fa25": [
@@ -52,6 +52,13 @@ assignments = {
       "dueDate": "2025-09-08T22:00:00",
       "link": "https://www.gradescope.com/courses/1069870/assignments/6427620/submissions/344764430",
       "submitted": true
+    },
+    {
+      "title": "PreLab 2: Transmission Lines",
+      "course": "ECE 270L9.Fa25",
+      "dueDate": "2025-09-22T22:00:00",
+      "link": "https://www.gradescope.com/courses/1069870",
+      "submitted": false
     }
   ],
   "MATH 230.05 and 230.06 \u2014 Assignments": [
