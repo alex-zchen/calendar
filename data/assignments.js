@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2025-09-17T10:00:00",
       "link": "https://www.gradescope.com/courses/1101321/assignments/6702112/submissions/347218141",
       "submitted": true
+    },
+    {
+      "title": "ECE 270.Fa25 Homework4",
+      "course": "ECE 270DL.001.Fa25",
+      "dueDate": "2025-09-22T10:00:00",
+      "link": "https://www.gradescope.com/courses/1101321",
+      "submitted": false
     }
   ],
   "ECE 270L9.Fa25": [
