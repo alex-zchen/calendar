@@ -61,7 +61,7 @@ assignments = {
     {
       "title": "ECE 270.Fa25 Homework5",
       "course": "ECE 270DL.001.Fa25",
-      "dueDate": "2025-10-03T10:00:00",
+      "dueDate": "2025-10-03T17:00:00",
       "link": "https://www.gradescope.com/courses/1101321",
       "submitted": false
     }
