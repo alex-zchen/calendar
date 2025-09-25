@@ -119,6 +119,7 @@ assignments = {
       "submitted": true
     }
   ],
+  "MATH 230.05 and 230.06 \u2014 Tests": [],
   "MATH 353/753.04.Fa25": [
     {
       "title": "HW1",
