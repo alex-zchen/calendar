@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2025-10-01T23:59:00",
       "link": "https://www.gradescope.com/courses/1087472/assignments/6753570/submissions/351855117",
       "submitted": true
+    },
+    {
+      "title": "Lab thread",
+      "course": "COMPSCI 310.001.Fa25",
+      "dueDate": "2025-10-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/1087472",
+      "submitted": false
     }
   ],
   "ECE 270DL.001.Fa25": [
@@ -62,8 +69,8 @@ assignments = {
       "title": "ECE 270.Fa25 Homework5",
       "course": "ECE 270DL.001.Fa25",
       "dueDate": "2025-10-03T17:00:00",
-      "link": "https://www.gradescope.com/courses/1101321",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1101321/assignments/6811285/submissions/354313346",
+      "submitted": true
     }
   ],
   "ECE 270L9.Fa25": [
