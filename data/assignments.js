@@ -31,7 +31,7 @@ assignments = {
     {
       "title": "Lab thread",
       "course": "COMPSCI 310.001.Fa25",
-      "dueDate": "2025-10-15T23:59:00",
+      "dueDate": "2025-10-22T23:59:00",
       "link": "https://www.gradescope.com/courses/1087472",
       "submitted": false
     }
