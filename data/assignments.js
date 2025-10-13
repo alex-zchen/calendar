@@ -82,6 +82,13 @@ assignments = {
   ],
   "ECE 270L9.Fa25": [
     {
+      "title": "PreLab: Optics",
+      "course": "ECE 270L9.Fa25",
+      "dueDate": "2025-10-20T22:00:00",
+      "link": "https://www.gradescope.com/courses/1069870",
+      "submitted": false
+    },
+    {
       "title": "Lab 2: Transmission Lines",
       "course": "ECE 270L9.Fa25",
       "dueDate": "2025-09-30T18:00:00",
