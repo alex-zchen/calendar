@@ -84,7 +84,7 @@ assignments = {
     {
       "title": "PreLab: Optics",
       "course": "ECE 270L9.Fa25",
-      "dueDate": "2025-10-20T22:00:00",
+      "dueDate": "2025-10-21T15:00:00",
       "link": "https://www.gradescope.com/courses/1069870",
       "submitted": false
     },
