@@ -260,6 +260,13 @@ assignments = {
       "dueDate": "2025-10-27T23:59:00",
       "link": "https://www.gradescope.com/courses/1099843/assignments/7034595/submissions/362791278",
       "submitted": true
+    },
+    {
+      "title": "HW10",
+      "course": "MATH 353/753.04.Fa25",
+      "dueDate": "2025-11-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/1099843",
+      "submitted": false
     }
   ]
 };
