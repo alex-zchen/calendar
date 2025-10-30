@@ -38,7 +38,7 @@ assignments = {
     {
       "title": "Lab Lazy",
       "course": "COMPSCI 310.001.Fa25",
-      "dueDate": "2025-10-29T11:59:00",
+      "dueDate": "2025-10-29T23:59:00",
       "link": "https://www.gradescope.com/courses/1087472/assignments/7024530/submissions/363178434",
       "submitted": true
     },
