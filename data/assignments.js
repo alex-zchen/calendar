@@ -46,8 +46,8 @@ assignments = {
       "title": "Lab COW",
       "course": "COMPSCI 310.001.Fa25",
       "dueDate": "2025-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/1087472",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1087472/assignments/7063052/submissions/368500404",
+      "submitted": true
     }
   ],
   "ECE 270DL.001.Fa25": [
