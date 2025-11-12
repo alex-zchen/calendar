@@ -162,8 +162,8 @@ assignments = {
       "title": "Prelab: Quantum",
       "course": "ECE 270L9.Fa25",
       "dueDate": "2025-11-17T22:00:00",
-      "link": "https://www.gradescope.com/courses/1069870",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1069870/assignments/6427624/submissions/368761050",
+      "submitted": true
     }
   ],
   "MATH 230.05 and 230.06 \u2014 Assignments": [
