@@ -113,6 +113,13 @@ assignments = {
       "dueDate": "2025-11-07T17:00:00",
       "link": "https://www.gradescope.com/courses/1101321/assignments/7087254/submissions/367030971",
       "submitted": true
+    },
+    {
+      "title": "ECE 270.Fa25 Homework9",
+      "course": "ECE 270DL.001.Fa25",
+      "dueDate": "2025-11-21T10:00:00",
+      "link": "https://www.gradescope.com/courses/1101321",
+      "submitted": false
     }
   ],
   "ECE 270L9.Fa25": [
