@@ -328,8 +328,8 @@ assignments = {
       "title": "HW11",
       "course": "MATH 353/753.04.Fa25",
       "dueDate": "2025-11-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1099843",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1099843/assignments/7155851/submissions/370674900",
+      "submitted": true
     }
   ]
 };
