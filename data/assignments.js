@@ -145,6 +145,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab: Quantum",
+      "course": "ECE 270L9.Fa25",
+      "dueDate": "2025-11-18T18:00:00",
+      "link": "https://www.gradescope.com/courses/1069870/assignments/6427619/submissions/370998589",
+      "submitted": true
+    },
+    {
       "title": "Prelab 1: Waves",
       "course": "ECE 270L9.Fa25",
       "dueDate": "2025-09-08T22:00:00",
