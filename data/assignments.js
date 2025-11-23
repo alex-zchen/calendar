@@ -264,6 +264,13 @@ assignments = {
       "dueDate": "2025-11-21T17:00:00",
       "link": "https://www.gradescope.com/courses/1075503/assignments/7168886/submissions/372155859",
       "submitted": true
+    },
+    {
+      "title": "Assignment 10",
+      "course": "MATH 230.05 and 230.06 \u2014 Assignments",
+      "dueDate": "2025-12-05T17:00:00",
+      "link": "https://www.gradescope.com/courses/1075503",
+      "submitted": false
     }
   ],
   "MATH 230.05 and 230.06 \u2014 Tests": [],
