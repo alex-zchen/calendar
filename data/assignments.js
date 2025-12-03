@@ -53,8 +53,8 @@ assignments = {
       "title": "Lab FS",
       "course": "COMPSCI 310.001.Fa25",
       "dueDate": "2025-12-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/1087472",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1087472/assignments/7151318/submissions/374542647",
+      "submitted": true
     }
   ],
   "ECE 270DL.001.Fa25": [
