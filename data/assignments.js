@@ -366,5 +366,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/1099843",
       "submitted": false
     }
-  ]
+  ],
+  "math 353 fall 2025 final": []
 };
