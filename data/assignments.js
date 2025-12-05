@@ -125,8 +125,8 @@ assignments = {
       "title": "ECE 270.Fa25 Homework10",
       "course": "ECE 270DL.001.Fa25",
       "dueDate": "2025-12-05T17:00:00",
-      "link": "https://www.gradescope.com/courses/1101321",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1101321/assignments/7205425/submissions/375307410",
+      "submitted": true
     }
   ],
   "ECE 270L9.Fa25": [
@@ -363,8 +363,8 @@ assignments = {
       "title": "HW13",
       "course": "MATH 353/753.04.Fa25",
       "dueDate": "2025-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/1099843",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1099843/assignments/7239606/submissions/375319818",
+      "submitted": true
     }
   ],
   "math 353 fall 2025 final": []
