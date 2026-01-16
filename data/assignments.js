@@ -30,6 +30,13 @@ assignments = {
       "dueDate": "2026-01-22T22:00:00",
       "link": "https://www.gradescope.com/courses/1206445/assignments/7362401/submissions/380750103",
       "submitted": true
+    },
+    {
+      "title": "PreLab 2:  The Diode Connected BJT",
+      "course": "ECE 331L.001.Sp26",
+      "dueDate": "2026-01-26T08:00:00",
+      "link": "https://www.gradescope.com/courses/1206445",
+      "submitted": false
     }
   ]
 };
