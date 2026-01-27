@@ -25,8 +25,8 @@ assignments = {
       "title": "Homework 2 (Theory)",
       "course": "CS 330",
       "dueDate": "2026-01-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1201561/assignments/7525626/submissions/383252265",
+      "submitted": true
     }
   ],
   "CS/ECE 356": [],
