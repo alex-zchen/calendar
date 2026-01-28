@@ -27,6 +27,20 @@ assignments = {
       "dueDate": "2026-01-27T23:59:00",
       "link": "https://www.gradescope.com/courses/1201561/assignments/7525626/submissions/383252265",
       "submitted": true
+    },
+    {
+      "title": "Homework 3 (Java)",
+      "course": "CS 330",
+      "dueDate": "2026-02-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/1201561",
+      "submitted": false
+    },
+    {
+      "title": "Homework 3 (Python)",
+      "course": "CS 330",
+      "dueDate": "2026-02-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/1201561",
+      "submitted": false
     }
   ],
   "CS/ECE 356": [
