@@ -77,14 +77,14 @@ assignments = {
     {
       "title": "PreLab 3: Simple BJT Current Sources",
       "course": "ECE 331L.001.Sp26",
-      "dueDate": "2026-02-02T08:00:00",
+      "dueDate": "2026-02-16T08:00:00",
       "link": "https://www.gradescope.com/courses/1206445",
       "submitted": false
     },
     {
       "title": "Lab 2: The Diode Connected BJT",
       "course": "ECE 331L.001.Sp26",
-      "dueDate": "2026-02-05T22:00:00",
+      "dueDate": "2026-02-19T22:00:00",
       "link": "https://www.gradescope.com/courses/1206445",
       "submitted": false
     }
