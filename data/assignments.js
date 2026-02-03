@@ -39,15 +39,15 @@ assignments = {
       "title": "Homework 3 (Python)",
       "course": "CS 330",
       "dueDate": "2026-02-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1201561/assignments/7554314/submissions/385454193",
+      "submitted": true
     },
     {
       "title": "Homework 3 (Theory)",
       "course": "CS 330",
       "dueDate": "2026-02-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1201561/assignments/7556094/submissions/385454769",
+      "submitted": true
     }
   ],
   "CS/ECE 356": [
