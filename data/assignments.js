@@ -55,7 +55,7 @@ assignments = {
       "title": "wireshark-lab-1",
       "course": "CS/ECE 356",
       "dueDate": "2026-02-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/1205664/assignments/7547214/submissions/385326063",
+      "link": "https://www.gradescope.com/courses/1205664/assignments/7547214/submissions/385622157",
       "submitted": true
     }
   ],
