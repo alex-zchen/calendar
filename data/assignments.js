@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2026-02-03T23:59:00",
       "link": "https://www.gradescope.com/courses/1201561/assignments/7556094/submissions/385454769",
       "submitted": true
+    },
+    {
+      "title": "Homework 4 (Theory)",
+      "course": "CS 330",
+      "dueDate": "2026-02-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/1201561",
+      "submitted": false
     }
   ],
   "CS/ECE 356": [
@@ -85,8 +92,8 @@ assignments = {
       "title": "Lab 2: The Diode Connected BJT",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-02-19T22:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362406/submissions/385974633",
+      "submitted": true
     },
     {
       "title": "Lab 3: BJT Current Source",
