@@ -60,7 +60,7 @@ assignments = {
       "title": "Homework 4 (Python)",
       "course": "CS 330",
       "dueDate": "2026-02-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561/assignments/7625548/submissions/387998670",
+      "link": "https://www.gradescope.com/courses/1201561/assignments/7625548/submissions/388011628",
       "submitted": true
     },
     {
