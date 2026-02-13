@@ -143,6 +143,13 @@ assignments = {
       "dueDate": "2026-02-26T22:00:00",
       "link": "https://www.gradescope.com/courses/1206445",
       "submitted": false
+    },
+    {
+      "title": "Lab 4: Differential Amplifier",
+      "course": "ECE 331L.001.Sp26",
+      "dueDate": "2026-03-05T22:00:00",
+      "link": "https://www.gradescope.com/courses/1206445",
+      "submitted": false
     }
   ]
 };
