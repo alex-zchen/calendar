@@ -141,8 +141,8 @@ assignments = {
       "title": "Lab 3: BJT Current Source",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-02-26T22:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362407/submissions/389811953",
+      "submitted": true
     },
     {
       "title": "Lab 4: Differential Amplifier",
