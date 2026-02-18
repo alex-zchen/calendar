@@ -74,8 +74,8 @@ assignments = {
       "title": "Homework 5 (Python)",
       "course": "CS 330",
       "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1201561/assignments/7632865/submissions/390198600",
+      "submitted": true
     },
     {
       "title": "Homework 5 (Java)",
@@ -88,8 +88,8 @@ assignments = {
       "title": "Homework 5 (Theory)",
       "course": "CS 330",
       "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1201561/assignments/7644145/submissions/390207689",
+      "submitted": true
     }
   ],
   "CS/ECE 356": [
