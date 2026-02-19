@@ -111,55 +111,6 @@ assignments = {
       "dueDate": "2026-02-24T23:59:00",
       "link": "https://www.gradescope.com/courses/1201561",
       "submitted": false
-    },
-    {
-      "title": "Homework 7 (Java)",
-      "course": "CS 330",
-      "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
-    },
-    {
-      "title": "Homework 7 (Python)",
-      "course": "CS 330",
-      "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
-    },
-    {
-      "title": "Homework 8 (Java)",
-      "course": "CS 330",
-      "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
-    },
-    {
-      "title": "Homework 8 (Python)",
-      "course": "CS 330",
-      "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
-    },
-    {
-      "title": "Homework 9 (Python)",
-      "course": "CS 330",
-      "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
-    },
-    {
-      "title": "Homework 9 (Java)",
-      "course": "CS 330",
-      "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
-    },
-    {
-      "title": "Homework 10 (Python)",
-      "course": "CS 330",
-      "dueDate": "2026-02-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/1201561",
-      "submitted": false
     }
   ],
   "CS/ECE 356": [
