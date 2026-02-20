@@ -155,7 +155,7 @@ assignments = {
       "title": "Lab 2: The Diode Connected BJT",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-02-19T22:00:00",
-      "link": "https://www.gradescope.com/courses/1206445/assignments/7362406/submissions/385974633",
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362406/submissions/391129271",
       "submitted": true
     },
     {
