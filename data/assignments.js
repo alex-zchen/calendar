@@ -127,8 +127,8 @@ assignments = {
       "title": "PreLab 4: Differential Pair",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-02-23T08:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362399/submissions/391859014",
+      "submitted": true
     },
     {
       "title": "Lab 1: Frequency-Domain and Time-Domain Measurements on RC Networks",
