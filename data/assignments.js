@@ -139,7 +139,7 @@ assignments = {
       "title": "program-1",
       "course": "CS/ECE 356",
       "dueDate": "2026-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/1205664/assignments/7728236/submissions/393375406",
+      "link": "https://www.gradescope.com/courses/1205664/assignments/7728236/submissions/393377690",
       "submitted": true
     }
   ],
