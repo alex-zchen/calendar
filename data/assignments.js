@@ -139,8 +139,8 @@ assignments = {
       "title": "program-1",
       "course": "CS/ECE 356",
       "dueDate": "2026-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/1205664",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1205664/assignments/7728236/submissions/393375406",
+      "submitted": true
     }
   ],
   "ECE 331L.001.Sp26": [
