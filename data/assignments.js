@@ -183,8 +183,8 @@ assignments = {
       "title": "PreLab 5: BJT CE Stage",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-03-02T08:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362404/submissions/394209738",
+      "submitted": true
     },
     {
       "title": "Lab 2: The Diode Connected BJT",
