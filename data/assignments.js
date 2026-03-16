@@ -232,8 +232,8 @@ assignments = {
       "title": "PreLab 6: LM741 Op-Amp",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-03-16T08:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362410/submissions/398124962",
+      "submitted": true
     }
   ]
 };
