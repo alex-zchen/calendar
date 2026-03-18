@@ -245,7 +245,7 @@ assignments = {
     {
       "title": "Lab 5: BJT CE Stage",
       "course": "ECE 331L.001.Sp26",
-      "dueDate": "2026-03-19T22:00:00",
+      "dueDate": "2026-03-26T22:00:00",
       "link": "https://www.gradescope.com/courses/1206445/assignments/7362409/submissions/394503162",
       "submitted": true
     },
