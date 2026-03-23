@@ -225,8 +225,8 @@ assignments = {
       "title": "Lab 6: LM741 Op-Amp",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-04-02T22:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362405/submissions/400019615",
+      "submitted": true
     },
     {
       "title": "Lab 2: The Diode Connected BJT",
