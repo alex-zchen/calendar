@@ -281,8 +281,8 @@ assignments = {
       "title": "PreLab 7: CMOS Logic",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-03-30T08:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362411/submissions/401397581",
+      "submitted": true
     }
   ]
 };
