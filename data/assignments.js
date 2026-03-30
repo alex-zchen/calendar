@@ -204,8 +204,8 @@ assignments = {
       "title": "Lab 7: CMOS Logic",
       "course": "ECE 331L.001.Sp26",
       "dueDate": "2026-04-09T22:00:00",
-      "link": "https://www.gradescope.com/courses/1206445",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1206445/assignments/7362400/submissions/401609936",
+      "submitted": true
     },
     {
       "title": "Lab 1: Frequency-Domain and Time-Domain Measurements on RC Networks",
