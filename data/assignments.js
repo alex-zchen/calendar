@@ -188,8 +188,8 @@ assignments = {
       "title": "extra-credit-1",
       "course": "CS/ECE 356",
       "dueDate": "2026-04-07T16:20:00",
-      "link": "https://www.gradescope.com/courses/1205664",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1205664/assignments/7855542/submissions/401750396",
+      "submitted": true
     }
   ],
   "ECE 331L.001.Sp26": [
