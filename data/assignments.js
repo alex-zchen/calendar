@@ -160,6 +160,13 @@ assignments = {
       "dueDate": "2026-03-31T23:59:00",
       "link": "https://www.gradescope.com/courses/1201561/assignments/7897662/submissions/401963944",
       "submitted": true
+    },
+    {
+      "title": "Homework 10 (Theory)",
+      "course": "CS 330",
+      "dueDate": "2026-04-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/1201561",
+      "submitted": false
     }
   ],
   "CS/ECE 356": [
