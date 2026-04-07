@@ -164,7 +164,7 @@ assignments = {
     {
       "title": "Homework 10 (Theory)",
       "course": "CS 330",
-      "dueDate": "2026-04-07T23:59:00",
+      "dueDate": "2026-04-09T23:59:00",
       "link": "https://www.gradescope.com/courses/1201561",
       "submitted": false
     }
